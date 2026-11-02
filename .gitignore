@@ -1,0 +1,9 @@
+Emergency Vehicle Detection.v1i.yolov11.zip
+**/emergency_dataset/
+**/venv/
+**/node_modules/
+**/.env
+**/runs/
+**/uploads/
+__pycache__/
+*.pyc
